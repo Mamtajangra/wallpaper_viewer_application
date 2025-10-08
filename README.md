@@ -2,7 +2,7 @@
 
 A simple Python application to view wallpapers in a GUI window.
 
-## screenshot
+
 ![wallpaper Image](res.jpg)
 
 ## Features
